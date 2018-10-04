@@ -1,3 +1,4 @@
+# MALICIOUS PACKAGE CREATED FOR TEST PURPOSES - DO NOT INSTALL
 # addressparser
 
 Parse e-mail address fields. Input can be a single address (`"andris@kreata.ee"`), a formatted address (`"Andris Reinman <andris@kreata.ee>"`), comma separated list of addresses (`"andris@kreata.ee, andris.reinman@kreata.ee"`), an address group (`"disclosed-recipients:andris@kreata.ee;"`) or a mix of all the formats.
